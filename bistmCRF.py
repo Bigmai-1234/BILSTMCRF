@@ -2,8 +2,6 @@ import torch
 import torch.nn as nn
 torch.manual_seed(1234)
 
-
-
 from util import argmax,log_sum_exp
 import util
 
